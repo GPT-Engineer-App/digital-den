@@ -24,7 +24,7 @@ const Index = () => {
         <Box as="section" bg="white" p={10}>
           <Heading size="xl" textAlign="center">About</Heading>
           <Text mt={4} fontSize="lg">
-            GPT Engineer is a cutting-edge platform that leverages artificial intelligence to help developers build and enhance web applications efficiently.
+            Fabian Hedin is a seasoned software developer with a deep passion for coding. With over a decade of experience in the tech industry, Fabian has contributed to numerous high-profile projects and has a track record of driving innovation. His expertise spans across multiple programming languages and technologies, making him a versatile asset in any development team. Notable achievements include leading the development of an award-winning mobile application and authoring several well-received technical articles.
           </Text>
         </Box>
         <Box as="section" bg="gray.100" p={10}>
